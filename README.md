@@ -17,6 +17,6 @@ npm run build
 npm run develop
 
 ## deployed link
- N/A
+ coulndt deploy
 
 
